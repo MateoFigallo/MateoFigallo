@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👨‍💻 Ingeniero Informático | Software Developer
 
-<!--
-**MateoFigallo/MateoFigallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software especializado en **Flutter y desarrollo de aplicaciones multiplataforma** (Android & iOS).
 
-Here are some ideas to get you started:
+🚀 Enfocado en crear soluciones digitales modernas, escalables y funcionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologías: Flutter, Dart, Firebase, Riverpod, GoRouter y RevenueCat.
+
+📱 Experiencia en arquitectura, desarrollo, testing y publicación de aplicaciones.
+
+🤖 Interesado en inteligencia artificial, innovación y nuevas tecnologías.
+
+💡 Apasionado por transformar ideas en productos digitales.
